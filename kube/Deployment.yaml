@@ -18,7 +18,7 @@ spec:
         app: rockynewapp
     spec:
       containers:
-      - image: rocky19devops/rockyapp:14
+      - image: rocky19devops/rockyapp:16
         name: rockyapp
         resources: {}
 status: {}
